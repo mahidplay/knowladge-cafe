@@ -1,0 +1,53 @@
+    [
+        {
+        "id": 101,
+        "title": "The Adventure Begins",
+        "cover": "https://i.ibb.co/9Gwk6Ks/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "John Smith",
+        "author_img": "../src/assets/images/boy1.png",
+        "posted_data": "2023-10-11",
+        "reading_time": 22,
+        "hashtags": ["Adventure", "Fiction", "Exploration"]
+        },
+        {
+        "id": 102,
+        "title": "Mystery at Midnight",
+        "cover": "https://i.ibb.co/9Gwk6Ks/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "Emily Johnson",
+        "author_img": "../src/assets/images/girl2.jpg",
+        "posted_data": "2023-10-10",
+        "reading_time":25,
+        "hashtags": ["Mystery", "Suspense", "Thriller"]
+        },
+        {
+        "id": 103,
+        "title": "Cooking Delights",
+        "cover": "https://i.ibb.co/9Gwk6Ks/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "Maria Rodriguez",
+        "author_img": "//src/assets/images/girl2.jpg",
+        "posted_data": "2023-10-09",
+        "reading_time":40,
+        "hashtags": ["Cooking", "Recipes", "Food"]
+        },
+        {
+        "id": 104,
+        "title": "Tech Talk",
+        "cover": "https://i.ibb.co/9Gwk6Ks/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "David Chang",
+        "author_img": "../src/assets/images/boy2.png",
+        "posted_data": "2023-10-08",
+        "reading_time":55,
+        "hashtags": ["Technology", "Gadgets", "Innovation"]
+        },
+        {
+        "id": 105,
+        "title": "Travel Diaries",
+        "cover": "https://i.ibb.co/9Gwk6Ks/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+        "author": "Sarah Williams",
+        "author_img": "../src/assets/images/boy1.png",
+        "posted_data": "2023-10-07",
+        "reading_time":10,
+        "hashtags": ["Travel", "Adventure", "Wanderlust"]
+        }
+    ]
+    
